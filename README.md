@@ -123,7 +123,7 @@ What variable(s) are the target(s) for your model?</br>
 
 What variable(s) are the features for your model?</br>
 - The features are listed below: 
-<br/><img src="https://github.com/Chuchu0307/deep-learning-challenge/blob/main/images/features?raw=true"><br/>
+<br/><img src="https://github.com/Chuchu0307/deep-learning-challenge/blob/main/images/features.png?raw=true"><br/>
 
 
 What variable(s) should be removed from the input data because they are neither targets nor features?</br>
